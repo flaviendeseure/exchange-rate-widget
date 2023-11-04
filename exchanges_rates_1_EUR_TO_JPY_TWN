@@ -14,10 +14,5 @@
   </script>
   <script src="//currencyrate.today/exchangerates">
   </script>
-  <div style="text-align:right">
-    <a href="https://currencyrate.today">
-      CurrencyRate
-    </a>
-  </div>
 </body>
 </html>
